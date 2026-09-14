@@ -1,5 +1,7 @@
 # LGD-Production-Quality-Report-Dashboard
 
+<img width="496" height="1000" alt="image" src="https://github.com/user-attachments/assets/15a0fdfd-83a5-4342-b4d2-4ffe0ac4ed7f" />
+
 ## 📌 제목
 
 **LG디스플레이 생산·품질 업무 보고서 및 3D 설비 모니터링 웹서비스**
